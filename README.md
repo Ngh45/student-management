@@ -1,3 +1,3 @@
 # student-management
 Simple Student Management System
-<img src='Capture.png' alt="banner"></img>
+<img src='Capture.PNG' alt="banner"></img>
